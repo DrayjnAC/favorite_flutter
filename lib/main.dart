@@ -3,7 +3,7 @@ import 'package:portpolio_favorite_flutter/homeScreen.dart';
 
 void main() {
   runApp(const MyApp());
-}gi
+}
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
